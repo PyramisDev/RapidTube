@@ -36,7 +36,7 @@ Please don't hate, i'm only 13.
 
 -- Disclaimer --
 =========
-You are not allowed to (Re)Sell it, place it on forums, or other sites avaible for download. If you use this script,
+You are not allowed to (Re)Sell it, place it on forums, or other sites avaible for download. You are allowed to place a link to this GitHub page everywhere. If you use this script,
 Please give credits.
 
 -- Unfinished/Planned -- 
