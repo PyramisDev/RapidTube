@@ -6,6 +6,7 @@ RapidTube - Flat-UI Rapidleech based Youtube downloader
 Legend:
 =========
 - Instructions
+- Images
 - Requirements
 - Credits
 - Disclaimer
@@ -19,6 +20,13 @@ Legend:
 - Set the delete delay in the config file, or leave it on 300.
 - Go visit your website.
 - (Optional) Edit the en.php file in languages/en.php
+
+-- Images -- 
+[TR1](http://www.fiurl.tk/878228)
+[TR2](http://www.fiurl.tk/382262)
+[TR3](http://www.fiurl.tk/292578)
+[TR4](http://www.fiurl.tk/254749)
+[TR5](http://www.fiurl.tk/392497)
 
 -- Requirements --
 =========
